@@ -1,6 +1,5 @@
+
 #EXTM3U
 
-#EXTINF:0 tvg-id="AyE.mx" group-title="Filmes e Séries",A&E
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/
-
-https://iptvfree-brasil005.blogspot.com
+#EXTINF:0 tvg-id="ext" group-title="telecine",
+https://rr3---sn-bg0eznll.c.drive.google.com/videoplayback?expire=1633412245&ei=VaxbYdSDNde-wtQPovWriA4&ip=200.180.190.40&cp=QVRIVUVfUVJSRlhPOnRWUHpweVpjVkNwQkFoMWlQMWxHZUlMYlJuVmZzdzVfZDFqR3JWVGFYeGQ&id=a59cb03e652dac42&itag=18&source=webdrive&requiressl=yes&mh=Ih&mm=32&mn=sn-bg0eznll&ms=su&mv=m&mvi=3&pl=26&ttl=transient&susc=dr&driveid=1gqMDXhJnZx1wVDEviNIqueBAHjuqMxqj&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=5912.102&lmt=1538052743672748&mt=1633397540&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAN8h6-48UHYIfepoCGh0jwpXQxXbBnwbxHd1BuTDVO6rAiEA1LKLOQ32xK1VNpsgIUtkS98y1JRU9FhX1Z_spybYEZU=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOoYzRR8q96nufTV_WWMwajeMXRcE2qCh_3rR06jYmZ2AiEAvbQFPuyrcJQguNJKrW62BiBzBChvIam-nSrimfLXabo=&cpn=wS_frmC9gc3R4YPR&c=WEB_EMBEDDED_PLAYER&cver=1.20210928.1.1
