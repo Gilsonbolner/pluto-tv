@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="" group-title="",
+#EXTINF:0 tvg-id="" group-title="cinepix",cinepix
 https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
 
-#EXTINF:0 tvg-id="" group-title="",
+#EXTINF:0 tvg-id="" group-title="TV manchete",Tv manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1059031771.m3u8
