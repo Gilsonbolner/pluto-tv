@@ -34,9 +34,10 @@ http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0 tvg-id=&quot;ext&quot; group-title=&quot;WebTV&quot;,Anime TV 2 - WebTV
 http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
-#EXTINF:0 tvg-id=&quot;ext&quot; group-title=&quot;Infantil&quot;,Gospel Cartoon
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:0 tvg-id=&quot;ext&quot; group,Variedades
+
+###########tv 
+
+group,Variedades
 avi,www.listaiptv.gratis,https://lib.bz/video/site.mp4
 avi,geroubuzz.com,https://lib.bz/video/site_gerou.mp4
 ext,SBT - TV Jornal (PE),http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
