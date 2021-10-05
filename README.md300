@@ -1,5 +1,30 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="telecine",
-https://rr3---sn-bg0eznll.c.drive.google.com/videoplayback?expire=1633412245&ei=VaxbYdSDNde-wtQPovWriA4&ip=200.180.190.40&cp=QVRIVUVfUVJSRlhPOnRWUHpweVpjVkNwQkFoMWlQMWxHZUlMYlJuVmZzdzVfZDFqR3JWVGFYeGQ&id=a59cb03e652dac42&itag=18&source=webdrive&requiressl=yes&mh=Ih&mm=32&mn=sn-bg0eznll&ms=su&mv=m&mvi=3&pl=26&ttl=transient&susc=dr&driveid=1gqMDXhJnZx1wVDEviNIqueBAHjuqMxqj&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=5912.102&lmt=1538052743672748&mt=1633397540&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAN8h6-48UHYIfepoCGh0jwpXQxXbBnwbxHd1BuTDVO6rAiEA1LKLOQ32xK1VNpsgIUtkS98y1JRU9FhX1Z_spybYEZU=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOoYzRR8q96nufTV_WWMwajeMXRcE2qCh_3rR06jYmZ2AiEAvbQFPuyrcJQguNJKrW62BiBzBChvIam-nSrimfLXabo=&cpn=wS_frmC9gc3R4YPR&c=WEB_EMBEDDED_PLAYER&cver=1.20210928.1.1
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="CANAIS FECHADOS", PREMIERE
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/rt.png" group-title="CANAIS FECHADOS", RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/gametv.png" group-title="CANAIS FECHADOS", GAME SHOW TV - RÚSSIA
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="CANAIS FECHADOS", CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/historylab.png" group-title="CANAIS FECHADOS", HISTORY LAB - ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/france.png" group-title="CANAIS FECHADOS", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tv5monde.png" group-title="CANAIS FECHADOS",TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aljazeera.png" group-title="CANAIS FECHADOS", ALJAZEERA ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/aljazeeradoc.png" group-title="CANAIS FECHADOS", ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/mbc.jpg" group-title="CANAIS FECHADOS", MBC
+http://119.202.61.202:1935/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="CANAIS FECHADOS", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/iss.jpg" group-title="CANAIS FECHADOS", ISS AO VIVO - ESTAÇÃO ESPACIAL
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nasatv.png" group-title="CANAIS FECHADOS", NASA TV HD
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+
+
