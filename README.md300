@@ -1,4 +1,5 @@
+
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?client=lightning&ie=UTF-8&oe=UTF-8&q=Logo%20Jolt:%20F%C3%BAria%20Fatal" group-title="ext",Jolt: Fúria Fatal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZ9jRq9Ha9nXREPw1-piG26Zf0fZsvLWlcg&usqp=CAU" group-title="ext",Jolt: Fúria Fatal
 http://tsunow2.s3.us-central-1.wasabisys.com/cdnespecial5/Jolt.2021.mp4
